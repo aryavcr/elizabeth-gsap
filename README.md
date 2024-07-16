@@ -5,8 +5,12 @@ live : https://elizabeth-fawn.vercel.app<br>
 ## Screenshots & Video
 
 
+https://github.com/user-attachments/assets/deed8bf6-fd15-4769-b47e-da613e3965cf
 
-https://github.com/user-attachments/assets/e5cf214b-8b1f-44f2-817c-5272deea3a88
+
+
+
+
 
 ![Screenshot 2024-07-16 123526](https://github.com/user-attachments/assets/5eff3b76-a9a7-4d8b-9c12-465a0277f0d2)
 ![Screenshot 2024-07-17 001254](https://github.com/user-attachments/assets/ebf57417-acc8-46d5-b724-2e8f53db7e41)
